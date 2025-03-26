@@ -1,0 +1,31 @@
+{
+  "name": "ps0_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mari-Shushanashvili/PS0_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mari-Shushanashvili/PS0_assignment/issues"
+  },
+  "homepage": "https://github.com/Mari-Shushanashvili/PS0_assignment#readme",
+  "dependencies": {
+    "@types/node": "^22.13.13",
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10"
+  }
+}
