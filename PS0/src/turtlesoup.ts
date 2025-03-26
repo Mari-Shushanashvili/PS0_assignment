@@ -20,7 +20,7 @@ export function drawSquare(turtle: Turtle, sideLength: number): void {
  * @param radius Radius of the circle.
  * @param angleInDegrees Angle subtended by the chord at the center of the circle (in degrees).
  * @returns The length of the chord.
- */
+ */ 
 export function chordLength(radius: number, angleInDegrees: number): number {
   const angleInRadians = (angleInDegrees * Math.PI) / 180;
   return 2 * radius * Math.sin(angleInRadians / 2);
